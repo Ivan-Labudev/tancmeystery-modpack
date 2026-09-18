@@ -105,6 +105,11 @@ hash = "6bfb82960a27af2c360036e01c0131c3ad9c778b4ba5e3df51bafe4f175317db"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
+metafile = true
+
+[[files]]
 file = "mods/river-redux.pw.toml"
 hash = "153558b6dde7f69792b011d55f536d840430784f0b47259d05e632c0fc99bf02"
 metafile = true
@@ -137,6 +142,11 @@ metafile = true
 [[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "9b51c35206dd74dac90e3cc3f2ff9e1c45552500e6a01be183bc64260a0e5815"
+metafile = true
+
+[[files]]
+file = "mods/vinurl.pw.toml"
+hash = "151f70d66987dc7764d428528c00087de9338a712d6f60a7d72f076ef04d81f4"
 metafile = true
 
 [[files]]
