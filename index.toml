@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "dist/mods.zip"
-hash = "95db9f2b22be9f100d9caea0f7788f8bafde45be44268f099ebe73b2a5a6040a"
+hash = "d492f5996fed6623cc713ca6827b3e67e348a9436b6b28b5f817173817dee5fe"
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
@@ -105,6 +105,11 @@ hash = "6bfb82960a27af2c360036e01c0131c3ad9c778b4ba5e3df51bafe4f175317db"
 metafile = true
 
 [[files]]
+file = "mods/river-redux.pw.toml"
+hash = "153558b6dde7f69792b011d55f536d840430784f0b47259d05e632c0fc99bf02"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "93ae0b9eb663ff8fa3bcaf7d7635f6f199a3020744f7514044305a7dffa18561"
 metafile = true
@@ -112,6 +117,16 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "98553c2d49ef3a888954f24b7c49fe3442c01fd4fc1f1ed52c5898ed29d29d3b"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "b3ae602303fd717bff2344bfb89aa427e2b4a1ab5fffdcc25183b22102c492df"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "3b61fcf1c80cfdd79282be71ddfa9cce02fc13f8d87a760db455e2a97b801f40"
 metafile = true
 
 [[files]]
@@ -127,6 +142,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "82d7a3b521d4c249b424787cd5661f29088b54c7a3616df82a4808aec7e284cd"
+metafile = true
+
+[[files]]
+file = "mods/wwoo.pw.toml"
+hash = "a4adbe9faf5b891bfafdb122f7808f7870b6ea915af393deea41406498d109ab"
 metafile = true
 
 [[files]]
