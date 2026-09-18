@@ -1,8 +1,17 @@
 hash-format = "sha256"
 
 [[files]]
+file = "dist/mods.zip"
+hash = "95db9f2b22be9f100d9caea0f7788f8bafde45be44268f099ebe73b2a5a6040a"
+
+[[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "e3714f163dd8d1751d186221ad0049dc5719a2d6537ddfbc4e3403f769cffe2c"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
-hash = "f3f98ccb142504aa558f3250b5a9bcda5d9fb45634562a4b7f886489575f6f5a"
+hash = "ac9b5aef3b6a31864690e708c56f26f2a88384e6acf6cc2d33d9379af19660b0"
 metafile = true
 
 [[files]]
@@ -16,8 +25,18 @@ hash = "a8e595de593af26864308167d369a6e05fa30a4130a12066ffe6899bf6fb9c82"
 metafile = true
 
 [[files]]
+file = "mods/bobby.pw.toml"
+hash = "1be24723e76bf81496ee7c64f32813f2e6c0ec144ef4eeaa235d267068a1e1e8"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "ade864be9b0be5ed45fe53e621c9bd30778cbf2cfbf702b27aca203abf1d7bf7"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "044d4f494ac0e44bab09173ef4a2301450efc4db6b35e3a2adc405b7f7fe726c"
 metafile = true
 
 [[files]]
@@ -32,7 +51,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "7a7f5673b6e33eebaed00c0c453fc41d11c7474eb320c3ce8736d415fcfe2682"
+hash = "bdb5ae3580081541506ac88d51d6529a2e1530ba3b6c763ca0d92e981a54a28c"
 metafile = true
 
 [[files]]
@@ -43,6 +62,16 @@ metafile = true
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "ce1e5e716166d72f41fc45950db9346934201c3522f333e08de13412d0588141"
+metafile = true
+
+[[files]]
+file = "mods/just-zoom.pw.toml"
+hash = "9495bb2388d7fa5ccf6b33b485f75c7ed15f8a59956406a92ad427e8504980e8"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "b513d087ba54c55be452d8ddc3305def54ca437f48f8ff1b28f4853e56404469"
 metafile = true
 
 [[files]]
@@ -102,10 +131,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "246b5f3762c55589e5d816e0fc5c91145d148751613e9210215799d2b3d25e0b"
+hash = "75873283f92b8c40d3cfb1355695cb03066610ef05fa8a46e5dc07375987d471"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "9e835e7407c2ccd061a8ba9ca2788049bc64d1000377adf0b87a10dcb8f857ef"
+hash = "66d47b6362bf748351f40e28b207af045516047e299e963d511cc08092250aa4"
 metafile = true
