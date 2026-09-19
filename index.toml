@@ -65,6 +65,11 @@ hash = "bdb5ae3580081541506ac88d51d6529a2e1530ba3b6c763ca0d92e981a54a28c"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "6e8a069fbe68b69b2ab2a73a38a515d37bdb7634a1a980ee9a13767046d1bab0"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "86cbfa8adbbb8be527f95aca49b427f892aa780773df141dfd7f4ffd02740bbd"
 metafile = true
@@ -77,6 +82,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "ce1e5e716166d72f41fc45950db9346934201c3522f333e08de13412d0588141"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "ef2d7cc27048fb81c0d0eb10b7156c8999749ee564e8c251ef96494fba0dc1fc"
 metafile = true
 
 [[files]]
@@ -132,6 +142,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
+metafile = true
+
+[[files]]
+file = "mods/ranged-weapon-api.pw.toml"
+hash = "c350fccb98a0ea4c3637bbcab7cb94fb9c504251e96d744712660966f7820f5b"
 metafile = true
 
 [[files]]
