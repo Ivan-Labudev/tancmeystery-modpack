@@ -65,11 +65,6 @@ hash = "bdb5ae3580081541506ac88d51d6529a2e1530ba3b6c763ca0d92e981a54a28c"
 metafile = true
 
 [[files]]
-file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "e9b48a41987c854dee8a24f4797d7619a6e8ca10a883ad2067f56e11bce6ede4"
-metafile = true
-
-[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "86cbfa8adbbb8be527f95aca49b427f892aa780773df141dfd7f4ffd02740bbd"
 metafile = true
@@ -82,11 +77,6 @@ metafile = true
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "ce1e5e716166d72f41fc45950db9346934201c3522f333e08de13412d0588141"
-metafile = true
-
-[[files]]
-file = "mods/jei.pw.toml"
-hash = "5d5118126ec1e5f31f61372e87b3e4f9e4aaa485c95f908c276fc3faecea4fe7"
 metafile = true
 
 [[files]]
