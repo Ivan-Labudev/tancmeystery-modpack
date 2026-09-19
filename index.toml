@@ -40,8 +40,18 @@ hash = "ade864be9b0be5ed45fe53e621c9bd30778cbf2cfbf702b27aca203abf1d7bf7"
 metafile = true
 
 [[files]]
+file = "mods/chunky.pw.toml"
+hash = "fed6f66373bb06b6ff552c97cd9cdbdf78ec429320252619e563f9a4fb65feb9"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "044d4f494ac0e44bab09173ef4a2301450efc4db6b35e3a2adc405b7f7fe726c"
+metafile = true
+
+[[files]]
+file = "mods/dcintegration.pw.toml"
+hash = "a3f54d4b294683dbfe027dc01f9172bd828769afb435bb965f167e205640e7c3"
 metafile = true
 
 [[files]]
@@ -55,13 +65,18 @@ hash = "bd53dcb193060715c659e96aedafd08dedd193ebb1f0a79fe15f6786a315a6c0"
 metafile = true
 
 [[files]]
+file = "mods/essential-commands.pw.toml"
+hash = "21c3264543db261d2b7fca1b0debbae16d11a1945999ff1dfa51551fec381bbf"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "f42dcc815231697e3d5038e7e34e2ef6637a7bf3e2fe077e4eafb0488f871b9a"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "bdb5ae3580081541506ac88d51d6529a2e1530ba3b6c763ca0d92e981a54a28c"
+hash = "dbb3bab50fcfb189d1c6751f333247a83ed43cdfab981215ee074f0815ac3e2f"
 metafile = true
 
 [[files]]
@@ -72,6 +87,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "86cbfa8adbbb8be527f95aca49b427f892aa780773df141dfd7f4ffd02740bbd"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "564229ff076b027a7509fdd341b5b1972985fa576e82ea87c4562c36c3eea90d"
 metafile = true
 
 [[files]]
@@ -110,6 +130,11 @@ hash = "9063bac3fdf585a43d318e3f9773475a28ecb8fe80bc7689cc480851eef97420"
 metafile = true
 
 [[files]]
+file = "mods/ledger.pw.toml"
+hash = "56094cd33726792df84e8991bf1e9e3d69383a65793d47aab66bf2cac3f9acfb"
+metafile = true
+
+[[files]]
 file = "mods/libipn.pw.toml"
 hash = "cc298019c2d3a47a97e72363b942fe408e5ecb7ff476fe08155793f2f1578317"
 metafile = true
@@ -140,8 +165,23 @@ hash = "6c6bb72abb3e8e200ebe76ccb039def972055e87405d836df1f9a2c872aef035"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "2e5cc256846e5de6bc133772cd1d2fc94bb8f3e2645bf346419222f359bfa1ce"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "1c27ad224431263431eb2c2b249b309451398439e4febff668533b8dc08fb4dd"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
+metafile = true
+
+[[files]]
+file = "mods/polymer.pw.toml"
+hash = "81f185ec6688df3be5dd133e8a6a50db752f4ff2a8dc03d71b6fd92c389870a6"
 metafile = true
 
 [[files]]
@@ -170,6 +210,11 @@ hash = "93ae0b9eb663ff8fa3bcaf7d7635f6f199a3020744f7514044305a7dffa18561"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "44c52091b8a96fb3bed74aaa62715db45d60adeb7ba54364b452e6202fdd812a"
+metafile = true
+
+[[files]]
 file = "mods/spell-power.pw.toml"
 hash = "153bd7bc041cb7a8584dba5196571a5f4b6a1003005572bcc2dbcf49ebd89187"
 metafile = true
@@ -182,6 +227,11 @@ metafile = true
 [[files]]
 file = "mods/structure-pool-api.pw.toml"
 hash = "067d225614f0b952ccb0bc1c4be9c32c66ef9788e9efcaa5b8a4060b9906360b"
+metafile = true
+
+[[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "93df769832d512e9702ea78b40e28f4e1332e9548ab3cf8182c3466ccd668239"
 metafile = true
 
 [[files]]
@@ -202,6 +252,11 @@ metafile = true
 [[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "9b51c35206dd74dac90e3cc3f2ff9e1c45552500e6a01be183bc64260a0e5815"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "3850ba97b0333e8a93577e2d6352659e63bdefa295c704b18431ae233b6040e8"
 metafile = true
 
 [[files]]
