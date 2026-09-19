@@ -1,0 +1,13 @@
+name = "Pop-up Emotes"
+filename = "pop_up_emotes-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/57b3iSDf/versions/DejpusV7/pop_up_emotes-1.2.1.jar"
+hash-format = "sha512"
+hash = "2aed8909c94c3e7ab213f7068a58ab757029826439019cbdb806a570f9cbe51f96c01328ceb69bc69ee8f545a762cc9d0c7d009204448ae68290c45842a1a450"
+
+[update]
+[update.modrinth]
+mod-id = "57b3iSDf"
+version = "DejpusV7"

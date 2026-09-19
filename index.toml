@@ -15,6 +15,11 @@ hash = "e3714f163dd8d1751d186221ad0049dc5719a2d6537ddfbc4e3403f769cffe2c"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "a2115824c50f99bcfcd02bb38db055537505e361069786e88a8936f0df4c5665"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "ac9b5aef3b6a31864690e708c56f26f2a88384e6acf6cc2d33d9379af19660b0"
 metafile = true
@@ -50,11 +55,6 @@ hash = "044d4f494ac0e44bab09173ef4a2301450efc4db6b35e3a2adc405b7f7fe726c"
 metafile = true
 
 [[files]]
-file = "mods/dcintegration.pw.toml"
-hash = "a3f54d4b294683dbfe027dc01f9172bd828769afb435bb965f167e205640e7c3"
-metafile = true
-
-[[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 hash = "0bcc0df994ebbe98efc2f87c653cd0ae0a81bb0ca47b5adacba0974c5c6406c5"
 metafile = true
@@ -62,6 +62,11 @@ metafile = true
 [[files]]
 file = "mods/emotecraft.pw.toml"
 hash = "bd53dcb193060715c659e96aedafd08dedd193ebb1f0a79fe15f6786a315a6c0"
+metafile = true
+
+[[files]]
+file = "mods/emotetweaks.pw.toml"
+hash = "7fdb012cf709c808acc279f9e17cf6eb6223a72e41b9372a7a3891e0870ab0d7"
 metafile = true
 
 [[files]]
@@ -76,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "dbb3bab50fcfb189d1c6751f333247a83ed43cdfab981215ee074f0815ac3e2f"
+hash = "42aadc1db3d1960f629dfbe870a659744cca3fb1fd99adf9bb3755bf7b23837f"
 metafile = true
 
 [[files]]
@@ -105,6 +110,11 @@ hash = "ce1e5e716166d72f41fc45950db9346934201c3522f333e08de13412d0588141"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "6cd111862bed581843de0d59020256c65a57ed1c3f8de57322a928f53d67eaff"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "ef2d7cc27048fb81c0d0eb10b7156c8999749ee564e8c251ef96494fba0dc1fc"
 metafile = true
@@ -112,6 +122,11 @@ metafile = true
 [[files]]
 file = "mods/jewelry.pw.toml"
 hash = "6eebee17144ab49e9ec62caa237c6b5968ad041ac9ff1cae670dc1602b20e4de"
+metafile = true
+
+[[files]]
+file = "mods/jukebox-custom-disc-fix.pw.toml"
+hash = "2164a81935deaf35d5a1912c7e88f9bad54045248b553e86704fd22f2dfe4c76"
 metafile = true
 
 [[files]]
@@ -155,6 +170,11 @@ hash = "7fa8795248f8813dbda62b9ef3e3f718368857ad1b0498362ea11bb1399bd229"
 metafile = true
 
 [[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "a6ffaf3b24a1312d3737417d70b20bb8b7c2d034851a24f672096380afe57dae"
+metafile = true
+
+[[files]]
 file = "mods/malilib.pw.toml"
 hash = "6bfb82960a27af2c360036e01c0131c3ad9c778b4ba5e3df51bafe4f175317db"
 metafile = true
@@ -170,6 +190,11 @@ hash = "2e5cc256846e5de6bc133772cd1d2fc94bb8f3e2645bf346419222f359bfa1ce"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "37f308fca7e65c484d8906bb9d20f2d4b21d7077ebfd9fa182db85460e55b678"
+metafile = true
+
+[[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "1c27ad224431263431eb2c2b249b309451398439e4febff668533b8dc08fb4dd"
 metafile = true
@@ -182,6 +207,11 @@ metafile = true
 [[files]]
 file = "mods/polymer.pw.toml"
 hash = "81f185ec6688df3be5dd133e8a6a50db752f4ff2a8dc03d71b6fd92c389870a6"
+metafile = true
+
+[[files]]
+file = "mods/pop-up-emotes.pw.toml"
+hash = "bc8964577eeb627e502a02ca9dd4525a8beb2723d92529f25a9f10f6b943a857"
 metafile = true
 
 [[files]]
@@ -210,6 +240,11 @@ hash = "93ae0b9eb663ff8fa3bcaf7d7635f6f199a3020744f7514044305a7dffa18561"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "5cd3420078c7c24bf7414c7243a69b2d2a21c3c5e29150444697b11a001c44d8"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "44c52091b8a96fb3bed74aaa62715db45d60adeb7ba54364b452e6202fdd812a"
 metafile = true
@@ -227,6 +262,11 @@ metafile = true
 [[files]]
 file = "mods/structure-pool-api.pw.toml"
 hash = "067d225614f0b952ccb0bc1c4be9c32c66ef9788e9efcaa5b8a4060b9906360b"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "67fc732c5360d30b216d01fffd0dbc7fc6ce2459855a09f6550100723408fe6f"
 metafile = true
 
 [[files]]
